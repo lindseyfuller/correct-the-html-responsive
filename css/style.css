@@ -64,6 +64,10 @@ hr {
 	max-width: 1000px;
 }
 
+.box {
+	display: flex
+}
+
 .header {
 	background-color: #64bcda;
 	border-bottom: 8px solid #000000;
